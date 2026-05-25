@@ -3,8 +3,13 @@ import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import LabelEncoder
 
-# Load dataset
-data = pd.read_csv("dataset/salary_prediction.csv")
+import os
+import pandas as pd
+
+BASE_DIR = os.path.dirname(__file__)
+file_path = os.path.join(BASE_DIR, "dataset", "salary_prediction.csv")
+
+data = pd.read_csv(file_path)
 
 # Encode text columns
 label_encoders = {}
