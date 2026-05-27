@@ -9,7 +9,6 @@
 🛠️ This project is built using Python, Streamlit, and Scikit-learn and deployed on Streamlit Cloud.
 
 ````markdown
-```plaintext
 ScholarSync/
 │
 ├── app.py
@@ -28,7 +27,7 @@ ScholarSync/
 │
 └── database/
     └── scholarsync.db
-```
+
 ````
 
 
