@@ -34,3 +34,8 @@ SmartSalary-Predictor/
 📂 dataset/ → Contains salary_prediction.csv
 📦 requirements.txt → Project dependencies
 📘 README.md → Project documentation
+<img width="860" height="404" alt="salary" src="https://github.com/user-attachments/assets/6379c653-6c6c-4bf1-a9fb-39e096b405a9" />
+<img width="860" height="405" alt="salary1" src="https://github.com/user-attachments/assets/19d9733a-0aee-4dbd-a6f3-967ff141ed23" />
+<img width="860" height="405" alt="salary1" src="https://github.com/user-attachments/assets/867a90e9-2934-4225-9563-12d9a88e492b" />
+
+
