@@ -7,28 +7,43 @@
 📊 SmartSalary Predictor uses a trained machine learning model to estimate salary based on user inputs.
 💡 It helps understand how different professional factors influence salary levels.
 🛠️ This project is built using Python, Streamlit, and Scikit-learn and deployed on Streamlit Cloud.
-
 ````markdown
-ScholarSync/
+
+SmartSalaryPredictor/
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
 │
+├── dataset/
+│   └── salary_dataset.csv
+│
+├── notebooks/
+│   └── salary_analysis.ipynb
+│
+├── model/
+│   ├── salary_model.pkl
+│   └── encoder.pkl
+│
+├── preprocessing/
+│   ├── data_cleaning.py
+│   └── feature_engineering.py
+│
+├── training/
+│   ├── train_model.py
+│   └── evaluate_model.py
+│
 ├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
+│   └── screenshots/
+│       ├── home.png
+│       └── prediction.png
 │
-├── templates/
-│   ├── index.html
-│   ├── dashboard.html
-│   └── login.html
+├── utils/
+│   └── prediction_helper.py
 │
-└── database/
-    └── scholarsync.db
-
-````
+└── streamlit/
+    └── ui_components.py
+```
 
 
 ✨ Features
