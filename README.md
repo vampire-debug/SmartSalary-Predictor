@@ -11,6 +11,43 @@
 
 🛠️ This project is built using Python, Streamlit, and Scikit-learn and deployed on Streamlit Cloud.
 
+Architecture
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── dataset/
+│   └── salary_dataset.csv
+│
+├── notebooks/
+│   └── salary_analysis.ipynb
+│
+├── model/
+│   ├── salary_model.pkl
+│   └── encoder.pkl
+│
+├── preprocessing/
+│   ├── data_cleaning.py
+│   └── feature_engineering.py
+│
+├── training/
+│   ├── train_model.py
+│   └── evaluate_model.py
+│
+├── static/
+│   └── screenshots/
+│       ├── home.png
+│       └── prediction.png
+│
+├── utils/
+│   └── prediction_helper.py
+│
+└── streamlit/
+    └── ui_components.py
+```
+
+
 ✨ Features
 🔮 Predict employee salary instantly
 🧠 Machine Learning based prediction model (Scikit-learn)
