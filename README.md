@@ -8,41 +8,28 @@
 💡 It helps understand how different professional factors influence salary levels.
 🛠️ This project is built using Python, Streamlit, and Scikit-learn and deployed on Streamlit Cloud.
 
-Architecture
+````markdown
+```plaintext
+ScholarSync/
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
 │
-├── dataset/
-│   └── salary_dataset.csv
-│
-├── notebooks/
-│   └── salary_analysis.ipynb
-│
-├── model/
-│   ├── salary_model.pkl
-│   └── encoder.pkl
-│
-├── preprocessing/
-│   ├── data_cleaning.py
-│   └── feature_engineering.py
-│
-├── training/
-│   ├── train_model.py
-│   └── evaluate_model.py
-│
 ├── static/
-│   └── screenshots/
-│       ├── home.png
-│       └── prediction.png
+│   ├── css/
+│   ├── js/
+│   └── images/
 │
-├── utils/
-│   └── prediction_helper.py
+├── templates/
+│   ├── index.html
+│   ├── dashboard.html
+│   └── login.html
 │
-└── streamlit/
-    └── ui_components.py
+└── database/
+    └── scholarsync.db
 ```
+````
 
 
 ✨ Features
