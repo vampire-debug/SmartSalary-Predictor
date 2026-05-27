@@ -43,7 +43,6 @@ SmartSalaryPredictor/
 │
 └── streamlit/
     └── ui_components.py
-```
 
 
 ✨ Features
