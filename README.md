@@ -15,7 +15,7 @@
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure:
 
 ```plaintext
 SmartSalaryPredictor/
