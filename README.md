@@ -13,6 +13,7 @@
 💡 It helps understand how different professional factors influence salary levels.  
 🛠️ Built using Python, Streamlit, and Scikit-learn and deployed on Streamlit Cloud.
 
+
 ---
 
 ## 📁 Project Structure:
