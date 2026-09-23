@@ -62,7 +62,7 @@ SmartSalaryPredictor/
 * 🔮 Predict employee salary instantly
 * 🧠 Machine Learning based prediction model (Scikit-learn)
 * 📊 Input-based estimation using experience, education, and job role
-* 🌐 Interactive Streamlit web interface
+* 🌐 Interactive Streamlit web interfaces
 * ⚡ Fast real-time predictions
 * 🎨 Simple and clean UI
 
