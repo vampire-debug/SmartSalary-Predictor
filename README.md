@@ -11,7 +11,7 @@
 
 📊 SmartSalary Predictor uses a trained machine learning model to estimate salary based on user inputs.
 💡 It helps understand how different professional factors influence salary levels.  
-🛠️ Built using Python, Streamlit, and Scikit-learn and deployed on Streamlit Cloud.
+🛠️ Built using Python, Streamlit, and Scikit-learn and deployed on Streamlit Cloud platform..
 
 
 ---
